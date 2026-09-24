@@ -329,14 +329,4 @@ The analysis can support:
 - **Management Reporting** — provide decision-makers with an interactive portfolio overview
 
 ---
-
-## 📁 Project Structure
-
-```text
-Loan-Portfolio-Risk-Analysis/
-│
-├── README.md
-├── LOAN_INFO.xlsx
-├── Loan_Portfolio_Risk_Analysis.xlsx
-└── Dashboard/
-    └── Loan_Portfolio_Dashboard.png
+[Linkedin](https://www.linkedin.com/in/augustine-atolu-7b72a0361/)
